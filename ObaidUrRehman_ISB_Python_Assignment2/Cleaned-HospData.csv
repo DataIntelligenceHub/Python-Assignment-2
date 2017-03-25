@@ -1,0 +1,223 @@
+,Date,id,Time,Age,Sex,ConsultingDoctor,Specialty,Procedure,TotalCharges,AmountReceived,AmountBalance,AmountReceivedBy,AmountinHospital,ReceptionistName,NextApt,WeekDay,Hour,Bracket
+0,"Sunday, January 01, 2017",101,1900-01-01 11:00:00,40.0,F,Dr Kinza Alam,Gynae,C Section,30000.0,30000.0,, Mrs Shamsa ,,Hamza,,Sunday,11.0,Morning
+1,"Monday, January 02, 2017",150,1900-01-01 10:45:00,26.0,M,Nursing Staff,,Dressing,1500.0,1500.0,, Dr Saniya ,,Haris,,Monday,10.0,Morning
+2,"Monday, January 02, 2017",58,1900-01-01 12:38:00,30.0,F,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Fiza,,Monday,12.0,Morning
+3,"Monday, January 02, 2017",75,1900-01-01 13:00:00,40.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,1500.0,1500.0,, Mrs Shamsa ,450.0,Zaheer,,Monday,13.0,Afternoon
+4,"Monday, January 02, 2017",97,1900-01-01 14:45:00,27.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,2000.0,2000.0,, Mrs Shamsa ,600.0,Haris,,Monday,14.0,Afternoon
+5,"Monday, January 02, 2017",101,1900-01-01 15:00:00,40.0,F,Dr Kinza Alam,Gynae,C Section,35000.0,35000.0,, Dr Saniya ,,Haris,,Monday,15.0,Afternoon
+6,"Monday, January 02, 2017",26,1900-01-01 15:28:00,43.0,M,Dr Saniya,M/o,Consultation,2000.0,2000.0,, Dr Saniya ,,Fiza,,Monday,15.0,Afternoon
+7,"Monday, January 02, 2017",149,1900-01-01 15:45:00,28.0,F,Dr Fakiha,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Haris,,Monday,15.0,Afternoon
+8,"Monday, January 02, 2017",20,1900-01-01 15:45:00,2.0,F,Dr Fakiha,Dentist,Consultation,,,,,,,,Monday,15.0,Afternoon
+9,"Monday, January 02, 2017",72,1900-01-01 17:00:00,40.0,M,Dr Fakiha,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Fiza,,Monday,17.0,Evening
+10,"Monday, January 02, 2017",54,1900-01-01 17:00:00,32.0,F,Dr Saniya,M/o,Consultation,2000.0,2000.0,, Dr Saniya ,,Fiza,,Monday,17.0,Evening
+11,"Monday, January 02, 2017",149,1900-01-01 17:30:00,28.0,F,Dr Fakiha,Dentist,Filling,2000.0,2000.0,, Mrs Shamsa ,2000.0,Fiza,In case of pain,Monday,17.0,Evening
+12,"Tuesday, January 03, 2017",120,1900-01-01 13:00:00,76.0,F,Dr Saniya,M/o,Laboratory Test,,,,,,Haris,,Tuesday,13.0,Afternoon
+13,"Tuesday, January 03, 2017",120,1900-01-01 15:25:00,75.0,F,Dr Saniya,M/o,,,,,,,,,Tuesday,15.0,Afternoon
+14,"Tuesday, January 03, 2017",20,1900-01-01 18:10:00,36.0,F,Dr Kinza Alam,Gynae,Consultation,1500.0,1500.0,, Mrs Shamsa ,450.0,Haris,,Tuesday,18.0,Evening
+15,"Wednesday, January 04, 2017",40,1900-01-01 23:45:00,42.0,F,Dr Alaf Khan,Dentist,Consultation+Denture,1500.0,1500.0,, Brig Farrukh ,,Fiza,,Wednesday,23.0,Nigth
+16,"Wednesday, January 04, 2017",134,1900-01-01 12:40:00,23.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Brig Farrukh ,500.0,Fiza,,Wednesday,12.0,Morning
+17,"Wednesday, January 04, 2017",86,1900-01-01 20:10:00,48.0,F,Dr Kinza Alam,Gynae,Consultation,1500.0,1500.0,, Brig Farrukh ,450.0,Haris,,Wednesday,20.0,Nigth
+18,"Wednesday, January 04, 2017",114,1900-01-01 20:30:00,25.0,F,Dr Kinza Alam,Gynae,Consultation,1000.0,1000.0,, Brig Farrukh ,300.0,Haris,,Wednesday,20.0,Nigth
+19,"Thursday, January 05, 2017",155,1900-01-01 12:40:00,50.0,F,Dr Alaf Khan,Dentist,Extraction,2000.0,2000.0,, Brig Farrukh ,2000.0,Fiza,,Thursday,12.0,Morning
+20,"Thursday, January 05, 2017",45,1900-01-01 14:00:00,60.0,F,Dr Alaf Khan,Dentist,R.P.D + Crown,4000.0,4000.0,, Brig Farrukh ,4000.0,Haris,,Thursday,14.0,Afternoon
+21,"Thursday, January 05, 2017",4,1900-01-01 14:00:00,,M,Dr Irfan,General Surgeon,Consultation + Dressing,5000.0,5000.0,, Brig Farrukh ,4000.0,Haris,,Thursday,14.0,Afternoon
+22,"Friday, January 06, 2017",38,1900-01-01 12:30:00,,M,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Friday,12.0,Morning
+23,"Friday, January 06, 2017",130,1900-01-01 13:00:00,26.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Friday,13.0,Afternoon
+24,"Friday, January 06, 2017",97,1900-01-01 13:30:00,27.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Friday,13.0,Afternoon
+25,"Friday, January 06, 2017",50,,,M,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Haris,,Friday,,
+26,"Friday, January 06, 2017",78,1900-01-01 20:15:00,57.0,F,Dr Ali,Orthopedic,Consultation,6000.0,6000.0,, Mrs Shamsa ,3000.0,Haris,,Friday,20.0,Nigth
+27,"Saturday, January 07, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Saturday,,
+28,"Monday, January 09, 2017",48,1900-01-01 12:36:00,39.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Fiza,,Monday,12.0,Morning
+29,"Monday, January 09, 2017",79,1900-01-01 13:30:00,6.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Fiza,,Monday,13.0,Afternoon
+30,"Monday, January 09, 2017",116,1900-01-01 14:30:00,26.0,M,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,, Mrs Shamsa ,300.0,Haris,,Monday,14.0,Afternoon
+31,"Monday, January 09, 2017",45,1900-01-01 15:15:00,60.0,F,Dr Alaf Khan,Dentist,R.P.D + Crown,7000.0,7000.0,, Mrs Shamsa ,7000.0,Fiza,,Monday,15.0,Afternoon
+32,"Monday, January 09, 2017",67,1900-01-01 17:20:00,26.0,M,Dr Alaf Khan,Dentist,Consultation+X Ray,800.0,800.0,, Mrs Shamsa ,800.0,Fiza,,Monday,17.0,Evening
+33,"Monday, January 09, 2017",36,1900-01-01 17:30:00,5.0,F,Dr Alaf Khan,Dentist,Consultation,250.0,250.0,, Mrs Shamsa ,250.0,Fiza,,Monday,17.0,Evening
+34,"Tuesday, January 10, 2017",17,1900-01-01 15:50:00,40.0,M,Dr Alaf Khan,Dentist,RCT (4 teeth) Bridge (9 teeth),10000.0,10000.0,, Mrs Shamsa ,,Fiza,1/16/2017,Tuesday,15.0,Afternoon
+35,"Tuesday, January 10, 2017",84,1900-01-01 18:00:00,9.0,F,Dr Irfan,General Surgeon,Consultation +   X Ray,3000.0,3000.0,, Mrs Shamsa ,3000.0,Mona,,Tuesday,18.0,Evening
+36,"Tuesday, January 10, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Tuesday,,
+37,"Wednesday, January 11, 2017",57,,30.0,F,Dr Alaf Khan,Dentist,Laboratory Test,,,, Mrs Shamsa ,,,,Wednesday,,
+38,"Wednesday, January 11, 2017",119,1900-01-01 15:00:00,40.0,F,Dr Ammara,Gynae,Consultation + USG,1500.0,1500.0,, Mrs Shamsa ,500.0,Fiza,,Wednesday,15.0,Afternoon
+39,"Wednesday, January 11, 2017",145,1900-01-01 16:30:00,29.0,M,Dr Alaf Khan,Dentist,Crown,3000.0,3000.0,, Mrs Shamsa ,,Fiza,,Wednesday,16.0,Afternoon
+40,"Wednesday, January 11, 2017",92,1900-01-01 16:30:00,39.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Fiza,,Wednesday,16.0,Afternoon
+41,"Thursday, January 12, 2017",63,1900-01-01 10:45:00,50.0,M,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Fiza,,Thursday,10.0,Morning
+42,"Thursday, January 12, 2017",63,1900-01-01 14:00:00,50.0,M,Dr Alaf Khan,Dentist,Scalling,3000.0,3000.0,, Mrs Shamsa ,3000.0,Fiza,,Thursday,14.0,Afternoon
+43,"Thursday, January 12, 2017",63,1900-01-01 14:00:00,50.0,M,Brig Asif,Medical Specialist,Consultation,500.0,500.0,, Mrs Shamsa ,150.0,Fiza,,Thursday,14.0,Afternoon
+44,"Friday, January 13, 2017",45,1900-01-01 11:20:00,60.0,F,Dr Alaf Khan,Dentist,Polishing,500.0,500.0,, Mrs Shamsa ,500.0,Haris,,Friday,11.0,Morning
+45,"Friday, January 13, 2017",145,1900-01-01 15:00:00,29.0,M,Dr Fakiha,Dentist,Crown,1500.0,1500.0,, Mrs Shamsa ,1500.0,Fiza,,Friday,15.0,Afternoon
+46,"Friday, January 13, 2017",70,1900-01-01 20:00:00,48.0,M,Brig Farrukh,Anaesthetist,Consultation,3750.0,3750.0,, Dr Ammad ,3750.0,Mona,,Friday,20.0,Nigth
+47,"Saturday, January 14, 2017",88,1900-01-01 16:30:00,45.0,F,Dr Fakiha,Dentist,Filling + X Rays,2600.0,2600.0,, Dr Ammad ,2600.0,Haris,,Saturday,16.0,Afternoon
+48,"Saturday, January 14, 2017",40,1900-01-01 18:30:00,42.0,F,Dr Fakiha,Dentist,Denture+Scalling+Filling,5500.0,5500.0,, Dr Ammad ,5500.0,Haris,,Saturday,18.0,Evening
+49,"Sunday, January 15, 2017",42,1900-01-01 21:00:00,29.0,F,Nursing Staff,,Pharmacy,900.0,900.0,, Dilshad ,900.0,Zaheer,,Sunday,21.0,Nigth
+50,"Monday, January 16, 2017",7,,26.0,M,Nursing Staff,,Laboratory Test,,,,,,,,Monday,,
+51,"Monday, January 16, 2017",106,1900-01-01 13:30:00,34.0,M,Dr Alaf Khan,Dentist,Crown,5000.0,5000.0,, Dr Ammad ,5000.0,Fiza,,Monday,13.0,Afternoon
+52,"Monday, January 16, 2017",22,1900-01-01 18:00:00,50.0,F,Dr Zubair,M/o,Consultation,1000.0,1000.0,, Dr Ammad ,400.0,Haris,,Monday,18.0,Evening
+53,"Monday, January 16, 2017",88,1900-01-01 18:20:00,45.0,F,Dr Fakiha,Dentist,Extraction,2500.0,2500.0,, Dr Ammad ,2500.0,Haris,1/23/2017,Monday,18.0,Evening
+54,"Tuesday, January 17, 2017",52,1900-01-01 11:25:00,30.0,M,Dr Alaf Khan,Dentist,RCT,3000.0,3000.0,, Mrs Shamsa ,3000.0,Fiza,1/20/2017,Tuesday,11.0,Morning
+55,"Tuesday, January 17, 2017",17,1900-01-01 11:15:00,40.0,M,Dr Alaf Khan,Dentist,RCT (4 teeth) Bridge (9 teeth),38000.0,38000.0,, Mrs Shamsa ,38000.0,Fiza,,Tuesday,11.0,Morning
+56,"Tuesday, January 17, 2017",17,1900-01-01 13:10:00,40.0,M,Brig Asif,Medical Specialist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Tuesday,13.0,Afternoon
+57,"Tuesday, January 17, 2017",136,1900-01-01 15:30:00,29.0,M,Dr Fakiha,Dentist,Scalling,4000.0,4000.0,, Mrs Shamsa ,4000.0,Fiza,,Tuesday,15.0,Afternoon
+58,"Tuesday, January 17, 2017",27,1900-01-01 18:15:00,27.0,M,Dr Fakiha,Dentist,Filling,2000.0,2000.0,, Mrs Shamsa ,2000.0,Sohaib,1/19/2017,Tuesday,18.0,Evening
+59,"Wednesday, January 18, 2017",71,1900-01-01 21:40:00,23.0,M,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,,,300.0,Haris,,Wednesday,21.0,Nigth
+60,"Wednesday, January 18, 2017",12,1900-01-01 12:00:00,60.0,F,Dr Alaf Khan,Dentist,22 Unit Bridge,25500.0,25500.0,,,25500.0,Haris,,Wednesday,12.0,Morning
+61,"Wednesday, January 18, 2017",127,1900-01-01 14:00:00,52.0,F,Dr Alaf Khan,Dentist,Extraction,1000.0,1000.0,,,1000.0,Haris,,Wednesday,14.0,Afternoon
+62,"Wednesday, January 18, 2017",82,1900-01-01 17:00:00,21.0,M,Dr Zubair,M/o,Consultation,500.0,500.0,,,500.0,Haris,,Wednesday,17.0,Evening
+63,"Thursday, January 19, 2017",103,,32.0,M,Nursing Staff,,Laboratory Test,,,,,,,,Thursday,,
+64,"Thursday, January 19, 2017",31,1900-01-01 11:00:00,58.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Mrs Shamsa ,500.0,Haris,,Thursday,11.0,Morning
+65,"Thursday, January 19, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Thursday,,
+66,"Thursday, January 19, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Thursday,,
+67,"Friday, January 20, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Friday,,
+68,"Saturday, January 21, 2017",131,1900-01-01 10:15:00,26.0,F,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,, Mrs Shamsa ,300.0,Haris,,Saturday,10.0,Morning
+69,"Saturday, January 21, 2017",101,1900-01-01 13:20:00,40.0,F,Dr Kinza Alam,Gynae,Consultation,1200.0,1200.0,, Mrs Shamsa ,360.0,Haris,,Saturday,13.0,Afternoon
+70,"Saturday, January 21, 2017",145,1900-01-01 13:30:00,29.0,M,Dr Fakiha,Dentist,Crown,500.0,500.0,, Mrs Shamsa ,500.0,Haris,,Saturday,13.0,Afternoon
+71,"Monday, January 23, 2017",144,1900-01-01 12:15:00,33.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Monday,12.0,Morning
+72,"Monday, January 23, 2017",37,1900-01-01 13:00:00,30.0,F,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Monday,13.0,Afternoon
+73,"Monday, January 23, 2017",135,1900-01-01 13:15:00,28.0,F,Dr Riffat Naheed,Psychotherapist,Consultation,2000.0,2000.0,, Mrs Shamsa ,600.0,Haris,,Monday,13.0,Afternoon
+74,"Monday, January 23, 2017",59,1900-01-01 16:50:00,10.0,M,Dr Ali,Child Specialist,Consultation+ER Retain,2800.0,2800.0,, Mrs Shamsa ,1600.0,Haris,,Monday,16.0,Afternoon
+75,"Tuesday, January 24, 2017",130,1900-01-01 13:00:00,26.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,800.0,800.0,, Mrs Shamsa ,240.0,Haris,,Tuesday,13.0,Afternoon
+76,"Tuesday, January 24, 2017",104,1900-01-01 13:15:00,19.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,2000.0,2000.0,, Mrs Shamsa ,600.0,Haris,,Tuesday,13.0,Afternoon
+77,"Tuesday, January 24, 2017",98,1900-01-01 14:10:00,53.0,F,Dr Saad,Orthopedic,Consultation,1000.0,1000.0,, Mrs Shamsa ,600.0,Haris,,Tuesday,14.0,Afternoon
+78,"Tuesday, January 24, 2017",102,1900-01-01 13:30:00,30.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Haris,,Tuesday,13.0,Afternoon
+79,"Wednesday, January 25, 2017",59,,10.0,M,Nursing Staff,,Laboratory Test,,,,,,,,Wednesday,,
+80,"Wednesday, January 25, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Wednesday,,
+81,"Thursday, January 26, 2017",73,1900-01-01 12:50:00,55.0,M,Dr Alaf Khan,Dentist,Consultation+X Ray,700.0,700.0,,,700.0,Haris,,Thursday,12.0,Morning
+82,"Thursday, January 26, 2017",116,1900-01-01 15:30:00,26.0,M,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,,,300.0,Haris,,Thursday,15.0,Afternoon
+83,"Thursday, January 26, 2017",125,1900-01-01 17:40:00,30.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,,,500.0,Haris,,Thursday,17.0,Evening
+84,"Thursday, January 26, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Thursday,,
+85,"Thursday, January 26, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Thursday,,
+86,"Thursday, January 26, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Thursday,,
+87,"Saturday, January 28, 2017",129,,,M,Dr Ali,Child Specialist,Consultation,1150.0,1150.0,, Mrs Shamsa ,,Sohaib,,Saturday,,
+88,"Saturday, January 28, 2017",85,1900-01-01 18:45:00,,F,Dr Irfan,General Surgeon,,3000.0,3000.0,, Mrs Shamsa ,,Sohaib,,Saturday,18.0,Evening
+89,"Saturday, January 28, 2017",147,1900-01-01 21:45:00,9.0,M,Nursing Staff,,Consultation,1000.0,1000.0,, Mrs Shamsa ,,Sub KB,,Saturday,21.0,Nigth
+90,"Sunday, January 29, 2017",1,,,NAN,Nursing Staff,,Pharmacy,,,,,,,,Sunday,,
+91,"Monday, January 30, 2017",140,1900-01-01 13:00:00,28.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Monday,13.0,Afternoon
+92,"Monday, January 30, 2017",39,1900-01-01 13:30:00,47.0,M,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,, Dr Ammad ,300.0,Haris,,Monday,13.0,Afternoon
+93,"Monday, January 30, 2017",124,1900-01-01 17:40:00,49.0,F,Brig Asif,Medical Specialist,Consultation+ECG,1300.0,1300.0,, Dr Ammad ,600.0,Sohaib,,Monday,17.0,Evening
+94,"Monday, January 30, 2017",8,1900-01-01 17:35:00,19.0,M,Dr Qurat ul Ain,Dentist,Consultation+X Ray,800.0,800.0,, Dr Ammad ,800.0,Sohaib,,Monday,17.0,Evening
+95,"Monday, January 30, 2017",51,1900-01-01 18:00:00,31.0,M,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Sohaib,,Monday,18.0,Evening
+96,"Tuesday, January 31, 2017",152,1900-01-01 17:30:00,7.0,F,Dr Fakiha,Dentist,Filling,1000.0,1000.0,, Mrs Shamsa ,1000.0,Haris,,Tuesday,17.0,Evening
+97,"Tuesday, January 31, 2017",21,1900-01-01 18:30:00,26.0,M,Dr Zubair,M/o,Consultation,200.0,200.0,, Mrs Shamsa ,200.0,Mona,,Tuesday,18.0,Evening
+98,"Tuesday, January 31, 2017",115,1900-01-01 18:50:00,8.0,F,Dr Qurat ul Ain,Dentist,Extraction,1500.0,1500.0,, Mrs Shamsa ,1500.0,Haris,,Tuesday,18.0,Evening
+99,"Wednesday, February 01, 2017",109,1900-01-01 14:10:00,28.0,F,Dr Alaf Khan,Dentist,R.C.T,2000.0,2000.0,, Dr Ammad ,2000.0,Haris,2/6/2017,Wednesday,14.0,Afternoon
+100,"Wednesday, February 01, 2017",153,1900-01-01 14:10:00,17.0,F,Dr Alaf Khan,Dentist,Orthodontics,10000.0,10000.0,, Dr Ammad ,10000.0,Haris,2/6/2017,Wednesday,14.0,Afternoon
+101,"Wednesday, February 01, 2017",62,1900-01-01 13:00:00,54.0,M,Dr Alaf Khan,Dentist,Scalling,2000.0,2000.0,, Dr Ammad ,2000.0,Haris,,Wednesday,13.0,Afternoon
+102,"Wednesday, February 01, 2017",111,1900-01-01 13:40:00,35.0,F,Col Ulfat Ellahi,ENT,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Haris,,Wednesday,13.0,Afternoon
+103,"Wednesday, February 01, 2017",142,1900-01-01 18:00:00,45.0,M,Dr Qurat ul Ain,Dentist,Extraction,2000.0,2000.0,, Dr Ammad ,2000.0,Haris,,Wednesday,18.0,Evening
+104,"Thursday, February 02, 2017",117,1900-01-01 12:00:00,30.0,F,Dr Shireen,M/o,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Thursday,12.0,Morning
+105,"Thursday, February 02, 2017",140,1900-01-01 13:00:00,30.0,F,Dr Alaf Khan,Dentist,Extraction,1000.0,1000.0,, Dr Ammad ,1000.0,Haris,,Thursday,13.0,Afternoon
+106,"Thursday, February 02, 2017",100,1900-01-01 13:25:00,23.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Thursday,13.0,Afternoon
+107,"Friday, February 03, 2017",133,1900-01-01 16:45:00,27.0,F,Dr Alaf Khan,Dentist,X Ray,500.0,500.0,, Dr Ammad ,500.0,Haris,,Friday,16.0,Afternoon
+108,"Friday, February 03, 2017",44,1900-01-01 20:00:00,6.0,M,Dr Ali,Child Specialist,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Haris,,Friday,20.0,Nigth
+109,"Saturday, February 04, 2017",35,1900-01-01 16:00:00,2.0,F,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Saturday,16.0,Afternoon
+110,"Saturday, February 04, 2017",150,1900-01-01 16:00:00,30.0,M,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Saturday,16.0,Afternoon
+111,"Monday, February 06, 2017",118,1900-01-01 19:30:00,32.0,F,Dr Kinza Alam,Gynae,Consultation+USG,1500.0,1500.0,, Dr Ammad ,800.0,Haris,,Monday,19.0,Evening
+112,"Monday, February 06, 2017",114,1900-01-01 19:45:00,25.0,F,Dr Kinza Alam,Gynae,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Haris,,Monday,19.0,Evening
+113,"Monday, February 06, 2017",49,1900-01-01 13:30:00,80.0,M,Dr Ali,Child Specialist,Consultation+Retain,3500.0,3500.0,, Dr Ammad ,2000.0,Haris,,Monday,13.0,Afternoon
+114,"Monday, February 06, 2017",126,1900-01-01 13:30:00,70.0,F,Dr Alaf Khan,Dentist,Scalling,3000.0,3000.0,, Dr Ammad ,3000.0,Haris,,Monday,13.0,Afternoon
+115,"Monday, February 06, 2017",141,1900-01-01 16:00:00,20.0,M,Dr Riffat Naheed,Psychotherapist,Consultation,2000.0,2000.0,, Dr Ammad ,600.0,Haris,,Monday,16.0,Afternoon
+116,"Monday, February 06, 2017",17,1900-01-01 18:15:00,23.0,M,Dr Ammad,M/o,Consultation,200.0,200.0,, Dr Ammad ,200.0,Haris,,Monday,18.0,Evening
+117,"Tuesday, February 07, 2017",12,1900-01-01 12:00:00,60.0,F,Dr Alaf Khan,Dentist,22 Unit Bridge,44000.0,30000.0,14000.0, Dr Ammad ,30000.0,Haris,2/14/2017,Tuesday,12.0,Morning
+118,"Tuesday, February 07, 2017",60,1900-01-01 13:10:00,50.0,M,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Tuesday,13.0,Afternoon
+119,"Tuesday, February 07, 2017",140,1900-01-01 14:15:00,30.0,F,Dr Alaf Khan,Dentist,4 Unit Bridge,3000.0,3000.0,, Dr Ammad ,3000.0,Haris,,Tuesday,14.0,Afternoon
+120,"Tuesday, February 07, 2017",41,1900-01-01 18:00:00,13.0,M,Dr Qurat ul Ain,Dentist,X Ray,500.0,500.0,, Dr Ammad ,500.0,Haris,,Tuesday,18.0,Evening
+121,"Tuesday, February 07, 2017",87,1900-01-01 20:00:00,30.0,F,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Tuesday,20.0,Nigth
+122,"Wednesday, February 08, 2017",132,1900-01-01 10:13:00,13.0,M,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,2/17/2017,Wednesday,10.0,Morning
+123,"Wednesday, February 08, 2017",132,1900-01-01 12:00:00,13.0,M,Dr Alaf Khan,Dentist,R.C.T,3500.0,3500.0,, Dr Ammad ,3500.0,Haris,,Wednesday,12.0,Morning
+124,"Wednesday, February 08, 2017",13,1900-01-01 12:00:00,39.0,F,Dr Saad,Orthopedic,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Haris,,Wednesday,12.0,Morning
+125,"Wednesday, February 08, 2017",109,1900-01-01 14:40:00,28.0,F,Dr Alaf Khan,Dentist,R.C.T,2000.0,2000.0,, Dr Ammad ,2000.0,Haris,,Wednesday,14.0,Afternoon
+126,"Wednesday, February 08, 2017",109,1900-01-01 14:40:00,28.0,F,Dr Alaf Khan,Dentist,Crown,3000.0,,3000.0, Dr Ammad ,,Haris,2/16/2017,Wednesday,14.0,Afternoon
+127,"Wednesday, February 08, 2017",153,1900-01-01 14:40:00,17.0,F,Dr Alaf Khan,Dentist,Orthodontics,110000.0,20000.0,90000.0, Dr Ammad ,20000.0,Haris,2/16/2017,Wednesday,14.0,Afternoon
+128,"Wednesday, February 08, 2017",43,1900-01-01 10:00:00,27.0,M,Dr Alaf Khan,Dentist,Consultation+X Ray,800.0,800.0,, Dr Ammad ,800.0,Haris,2/9/2017,Wednesday,10.0,Morning
+129,"Friday, February 10, 2017",5,1900-01-01 09:30:00,57.0,M,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,, Dr Ammad ,300.0,Haris,,Friday,9.0,Morning
+130,"Friday, February 10, 2017",14,1900-01-01 18:30:00,6.0,M,Nursing Staff,,X Ray,300.0,300.0,, Dr Ammad ,300.0,Haris,,Friday,18.0,Evening
+131,"Friday, February 10, 2017",123,1900-01-01 19:00:00,18.0,M,Dr Qurat ul Ain,Dentist,Filling,1500.0,1500.0,, Dr Ammad ,1500.0,Haris,,Friday,19.0,Evening
+132,"Saturday, February 11, 2017",137,1900-01-01 12:00:00,25.0,M,Dr Ali,Child Specialist,Consultation,1000.0,1000.0,, Mrs Shamsa ,300.0,Mona,,Saturday,12.0,Morning
+133,"Saturday, February 11, 2017",91,1900-01-01 16:20:00,50.0,F,Dr Qurat ul Ain,Dentist,Scalling,2500.0,2500.0,, Mrs Shamsa ,2500.0,Mona,,Saturday,16.0,Afternoon
+134,"Saturday, February 11, 2017",23,1900-01-01 17:57:00,,F,Dr Qurat ul Ain,Dentist,Consultation,1000.0,1000.0,, Mrs Shamsa ,1000.0,Mona,,Saturday,17.0,Evening
+135,"Saturday, February 11, 2017",154,1900-01-01 18:15:00,19.0,F,Dr Qurat ul Ain,Dentist,Scalling,2000.0,2000.0,, Mrs Shamsa ,2000.0,Mona,,Saturday,18.0,Evening
+136,"Sunday, February 12, 2017",112,1900-01-01 19:15:00,39.0,M,Dr Saad,Orthopedic,Operation,35000.0,35000.0,, Mrs Shamsa ,35000.0,Haris,,Sunday,19.0,Evening
+137,"Sunday, February 12, 2017",81,1900-01-01 12:00:00,6.0,F,Dr Alaf Khan,Dentist,Consultation+X Ray,700.0,700.0,, Mrs Shamsa ,700.0,Mona,,Sunday,12.0,Morning
+138,"Monday, February 13, 2017",15,1900-01-01 11:20:00,40.0,M,Dr Waqar Azeem,Radiologist,USG Abdomen,1000.0,1000.0,, Dr Ammad ,300.0,Haris,,Monday,11.0,Morning
+139,"Monday, February 13, 2017",112,1900-01-01 15:40:00,39.0,M,Dr Saad,Orthopedic,Operation,15000.0,15000.0,, Dr Ammad ,15000.0,Haris,,Monday,15.0,Afternoon
+140,"Monday, February 13, 2017",9,1900-01-01 19:00:00,20.0,F,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Haris,,Monday,19.0,Evening
+141,"Monday, February 13, 2017",2,,,NAN,Dr Ali,Child Specialist,Consultation,1500.0,1500.0,, Dr Ammad ,500.0,Haris,,Monday,,
+142,"Tuesday, February 14, 2017",113,1900-01-01 14:30:00,14.0,M,Dr Saad Riaz,Orthopedic,Pop,3700.0,3700.0,, Dr Ammad ,1700.0,Haris,,Tuesday,14.0,Afternoon
+143,"Tuesday, February 14, 2017",4,1900-01-01 15:00:00,,M,Nursing Staff,,Er Retain,300.0,300.0,, Dr Ammad ,300.0,Haris,,Tuesday,15.0,Afternoon
+144,"Tuesday, February 14, 2017",19,1900-01-01 19:02:00,,F,Dr Waqar Azeem,Radiologist,USG,2000.0,2000.0,, Dr Ammad ,1300.0,Haris,,Tuesday,19.0,Evening
+145,"Wednesday, February 15, 2017",118,1900-01-01 11:40:00,24.0,F,Dr Alaf Khan,Dentist,X Ray,400.0,400.0,, Mrs Shamsa ,400.0,Mona,,Wednesday,11.0,Morning
+146,"Wednesday, February 15, 2017",94,1900-01-01 16:45:00,3.0,M,Dr Ali,Child Specialist,Consultation + Nebulize,1150.0,1150.0,," 150 Mrs Shamsa, 300 Dr Ammad ",450.0,Haris,,Wednesday,16.0,Afternoon
+147,"Wednesday, February 15, 2017",64,1900-01-01 18:15:00,23.0,M,Dr Ammad,M/o,Consultation,200.0,200.0,, Dr Ammad ,200.0,Haris,,Wednesday,18.0,Evening
+148,"Friday, February 17, 2017",29,1900-01-01 16:10:00,29.0,M,Dr Alaf Khan,Dentist,X Ray,200.0,200.0,, Dr Ammad ,200.0,Haris,,Friday,16.0,Afternoon
+149,"Friday, February 17, 2017",66,1900-01-01 17:30:00,55.0,M,Dr Alaf Khan,Dentist,Extraction,1000.0,1000.0,, Dr Ammad ,1000.0,Haris,,Friday,17.0,Evening
+150,"Friday, February 17, 2017",107,1900-01-01 18:30:00,30.0,F,Nursing Staff,,X Ray,1000.0,1000.0,, Dr Ammad ,1000.0,Haris,,Friday,18.0,Evening
+151,"Saturday, February 18, 2017",108,1900-01-01 18:20:00,,M,Dr Ali,Child Specialist,Consultation,3000.0,3000.0,, Dr Ammad ,1600.0,Saima,,Saturday,18.0,Evening
+152,"Saturday, February 18, 2017",30,1900-01-01 18:10:00,30.0,F,Dr Qurat ul Ain,Dentist,Extraction,1500.0,1500.0,, Dr Ammad ,1500.0,Mona,,Saturday,18.0,Evening
+153,"Saturday, February 18, 2017",94,1900-01-01 11:30:00,3.0,M,Nursing Staff,,Injection,300.0,300.0,, Dr Ammad ,300.0,Saima,,Saturday,11.0,Morning
+154,"Sunday, February 19, 2017",55,1900-01-01 14:45:00,,M,Dr Qurat ul Ain,Dentist,X Ray,300.0,300.0,, Dr Ammad ,300.0,Saima,,Sunday,14.0,Afternoon
+155,"Monday, February 20, 2017",132,,13.0,M,Dr Alaf Khan,Dentist,Crown,5000.0,5000.0,, Dr Ammad ,5000.0,,2/24/2017,Monday,,
+156,"Monday, February 20, 2017",68,1900-01-01 13:25:00,10.0,M,Dr Shireen,M/o,Stiches,700.0,700.0,, Dr Ammad ,700.0,Saima,,Monday,13.0,Afternoon
+157,"Monday, February 20, 2017",80,1900-01-01 14:00:00,30.0,F,Dr Shireen,M/o,Consultation,1200.0,1200.0,, Dr Ammad ,1200.0,Saima,,Monday,14.0,Afternoon
+158,"Monday, February 20, 2017",99,1900-01-01 19:00:00,45.0,F,Dr Saima Shams,Radiologist,USG,1500.0,1500.0,, Dr Ammad ,900.0,Mona,,Monday,19.0,Evening
+159,"Monday, February 20, 2017",94,1900-01-01 22:15:00,3.0,M,Nursing Staff,,Injection,300.0,300.0,, Dr Ammad ,300.0,Ashfaq,,Monday,22.0,Nigth
+160,"Tuesday, February 21, 2017",151,1900-01-01 13:00:00,38.0,M,Dr Alaf Khan,Dentist,R.C.T+Scalling+Crown,5000.0,5000.0,, Dr Ammad ,5000.0,Saima,2/28/2017,Tuesday,13.0,Afternoon
+161,"Tuesday, February 21, 2017",53,1900-01-01 18:00:00,20.0,F,Dr Waqar Azeem,Radiologist,USG,1000.0,1000.0,, Dr Ammad ,400.0,Mona,,Tuesday,18.0,Evening
+162,"Tuesday, February 21, 2017",11,1900-01-01 19:11:00,2.0,F,Dr Ali,Child Specialist,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Saima,,Tuesday,19.0,Evening
+163,"Tuesday, February 21, 2017",94,1900-01-01 22:10:00,3.0,M,Nursing Staff,,Injection,300.0,300.0,, Dr Ammad ,300.0,Sub KB,,Tuesday,22.0,Nigth
+164,"Tuesday, February 21, 2017",64,,,NAN,Nursing Staff,,Medicine,100.0,100.0,,,100.0,Saima,,Tuesday,,
+165,"Wednesday, February 22, 2017",100,1900-01-01 15:00:00,23.0,F,Dr Alaf Khan,Dentist,Orthodontics,120000.0,30000.0,90000.0, Dr Ammad ,30000.0,Mona,,Wednesday,15.0,Afternoon
+166,"Wednesday, February 22, 2017",16,1900-01-01 16:30:00,26.0,M,Dr Mumtaz,General Surgeon,Consultation,1000.0,1000.0,, Dr Ammad ,500.0,Mona,,Wednesday,16.0,Afternoon
+167,"Wednesday, February 22, 2017",6,1900-01-01 17:00:00,35.0,M,Dr Waqar Azeem,Radiologist,USG,1000.0,1000.0,, Dr Ammad ,400.0,Mona,,Wednesday,17.0,Evening
+168,"Thursday, February 23, 2017",33,1900-01-01 13:55:00,22.0,M,Dr Alaf Khan,Dentist,R.C.T,3000.0,3000.0,, Dr Ammad ,3000.0,Saima,,Thursday,13.0,Afternoon
+169,"Thursday, February 23, 2017",89,1900-01-01 13:50:00,65.0,F,Dr Saad Riaz,Orthopedic,Consultation,1000.0,1000.0,, Dr Ammad ,500.0,Saima,,Thursday,13.0,Afternoon
+170,"Thursday, February 23, 2017",13,1900-01-01 14:00:00,45.0,F,Dr Saad Riaz,Orthopedic,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Saima,,Thursday,14.0,Afternoon
+171,"Thursday, February 23, 2017",47,1900-01-01 15:00:00,21.0,F,Dr Riffat Naheed,Psychotherapist,Consultation,1500.0,1500.0,, Dr Ammad ,700.0,Saima,,Thursday,15.0,Afternoon
+172,"Friday, February 24, 2017",80,1900-01-01 21:30:00,30.0,F,Dr Mehwish,Gynae,Consultation,1000.0,1000.0,, Dr Ammad ,500.0,Saima,,Friday,21.0,Nigth
+173,"Saturday, February 25, 2017",128,1900-01-01 15:45:00,64.0,F,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Saturday,15.0,Afternoon
+174,"Saturday, February 25, 2017",93,1900-01-01 16:00:00,40.0,F,Dr Ali,Child Specialist,,3000.0,3000.0,, Dr Ammad ,1600.0,Saima,,Saturday,16.0,Afternoon
+175,"Monday, February 27, 2017",143,1900-01-01 11:30:00,52.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Monday,11.0,Morning
+176,"Monday, February 27, 2017",56,1900-01-01 12:20:00,55.0,F,Dr Alaf Khan,Dentist,Extraction,600.0,600.0,, Dr Ammad ,600.0,Saima,,Monday,12.0,Morning
+177,"Monday, February 27, 2017",96,,54.0,M,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Monday,,
+178,"Tuesday, February 28, 2017",65,1900-01-01 22:30:00,30.0,M,Nursing Staff,,BSR,50.0,50.0,, Dr Ammad ,50.0,Haris,,Tuesday,22.0,Nigth
+179,"Tuesday, February 28, 2017",96,1900-01-01 12:40:00,53.0,M,Dr Alaf Khan,Dentist,8 Unit Bridge+2 R.C.T,30000.0,8000.0,22000.0, Dr Ammad ,8000.0,Haris,,Tuesday,12.0,Morning
+180,"Tuesday, February 28, 2017",90,,,F,Dr Alaf Khan,Dental,Consultation,1000.0,1000.0,, Dr Ammad ,1000.0,Saima,,Tuesday,,
+181,"Tuesday, February 28, 2017",151,1900-01-01 15:00:00,38.0,F,Dr Alaf Khan,Dentist,R.C.T+Scalling+Crown,4500.0,4500.0,, Dr Ammad ,4500.0,Haris,,Tuesday,15.0,Afternoon
+182,"Tuesday, February 28, 2017",139,1900-01-01 20:00:00,30.0,M,Nursing Staff,,X Ray,500.0,500.0,, Dr Ammad ,500.0,Saima,,Tuesday,20.0,Nigth
+183,"Wednesday, March 01, 2017",107,1900-01-01 17:00:00,17.0,F,Dr Qurat ul Ain,Dentist,Extraction,1500.0,1500.0,, Dr Ammad ,1500.0,Saima,,Wednesday,17.0,Evening
+184,"Wednesday, March 01, 2017",28,1900-01-01 18:00:00,3.0,F,Dr Qurat ul Ain,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Wednesday,18.0,Evening
+185,"Wednesday, March 01, 2017",46,,17.0,M,Nursing Staff,,Dressing,500.0,500.0,, Dr Ammad ,200.0,Saima,,Wednesday,,
+186,"Wednesday, March 01, 2017",25,1900-01-01 19:00:00,,F,Dr Kinza Alam,Gynae,Consultation,1500.0,1500.0,, Dr Ammad ,500.0,Saima,,Wednesday,19.0,Evening
+187,"Wednesday, March 01, 2017",24,1900-01-01 19:10:00,,M,Dr Ammad,M/o,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Wednesday,19.0,Evening
+188,"Thursday, March 02, 2017",140,1900-01-01 12:48:00,30.0,F,Dr Alaf Khan,Dentist,4 Unit Bridge,8000.0,8000.0,, Dr Ammad ,8000.0,Saima,,Thursday,12.0,Morning
+189,"Thursday, March 02, 2017",46,1900-01-01 15:00:00,17.0,M,Nursing Staff,,Injection,50.0,50.0,, Dr Ammad ,50.0,Saima,,Thursday,15.0,Afternoon
+190,"Thursday, March 02, 2017",114,1900-01-01 19:05:00,26.0,F,Dr Kinza Alam,Gynae,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Saima,,Thursday,19.0,Evening
+191,"Thursday, March 02, 2017",3,,,NAN,Nursing Staff,,Dressing,100.0,100.0,, Dr Ammad ,100.0,Saima,,Thursday,,
+192,"Friday, March 03, 2017",138,1900-01-01 11:20:00,45.0,F,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Friday,11.0,Morning
+193,"Friday, March 03, 2017",107,1900-01-01 12:30:00,17.0,F,Dr Alaf Khan,Dentist,R.C.T+Crown,8000.0,8000.0,, Dr Ammad ,8000.0,Saima,3/9/2017,Friday,12.0,Morning
+194,"Friday, March 03, 2017",34,1900-01-01 13:30:00,22.0,M,Dr Alaf Khan,Dentist,Crown,2000.0,2000.0,, Dr Ammad ,2000.0,Saima,3/8/2017,Friday,13.0,Afternoon
+195,"Friday, March 03, 2017",133,1900-01-01 16:10:00,30.0,F,Dr Ali,Child Specialist,Consultation,1000.0,1000.0,, Dr Ammad ,300.0,Saima,,Friday,16.0,Afternoon
+196,"Friday, March 03, 2017",46,1900-01-01 17:45:00,17.0,M,Nursing Staff,,Dressing,300.0,300.0,, Dr Ammad ,300.0,Saima,,Friday,17.0,Evening
+197,"Friday, March 03, 2017",74,1900-01-01 14:40:00,38.0,M,Dr Waqar Azeem,Radiologist,USG KUB,1000.0,1000.0,, Dr Ammad ,300.0,Sub KB,,Friday,14.0,Afternoon
+198,"Sunday, March 05, 2017",46,,17.0,M,Nursing Staff,,Dressing,300.0,300.0,, Dr Ammad ,200.0,Saima,,Sunday,,
+199,"Monday, March 06, 2017",83,1900-01-01 13:20:00,34.0,M,Dr Alaf Khan,Dentist,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Monday,13.0,Afternoon
+200,"Monday, March 06, 2017",61,1900-01-01 17:30:00,28.0,F,Dr Qurat ul Ain,Dentist,Consultation+X Ray,950.0,950.0,, Dr Ammad ,950.0,Haris,,Monday,17.0,Evening
+201,"Monday, March 06, 2017",122,1900-01-01 19:00:00,78.0,M,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Saima,,Monday,19.0,Evening
+202,"Tuesday, March 07, 2017",95,,56.0,M,Dr Alaf Khan,Dentist,X Ray,300.0,300.0,, Dr Ammad ,300.0,Saima,,Tuesday,,
+203,"Tuesday, March 07, 2017",69,1900-01-01 15:00:00,53.0,M,Dr Alaf Khan,Dentist,,15000.0,15000.0,, Dr Ammad ,15000.0,Mona,,Tuesday,15.0,Afternoon
+204,"Tuesday, March 07, 2017",146,,21.0,M,Dr Ammad,M/o,Consultation,500.0,500.0,, Dr Ammad ,500.0,Saima,,Tuesday,,
+205,"Tuesday, March 07, 2017",46,1900-01-01 19:40:00,17.0,M,Nursing Staff,,Dressing,200.0,200.0,, Dr Ammad ,200.0,Saima,,Tuesday,19.0,Evening
+206,"Tuesday, March 07, 2017",32,1900-01-01 14:00:00,,F,Nursing Staff,,Coupety,300.0,300.0,, Dr Ammad ,300.0,Saima,,Tuesday,14.0,Afternoon
+207,"Tuesday, March 07, 2017",122,1900-01-01 21:35:00,78.0,M,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Sub KB,,Tuesday,21.0,Nigth
+208,"Wednesday, March 08, 2017",148,1900-01-01 20:30:00,3.0,F,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Ashfaq,,Wednesday,20.0,Nigth
+209,"Wednesday, March 08, 2017",122,1900-01-01 22:00:00,76.0,M,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Ashfaq,,Wednesday,22.0,Nigth
+210,"Wednesday, March 08, 2017",10,1900-01-01 16:45:00,9.0,F,Dr Qurat ul Ain,Dentist,Consultation+x Ray,650.0,650.0,, Dr Ammad ,650.0,Saima,,Wednesday,16.0,Afternoon
+211,"Wednesday, March 08, 2017",76,1900-01-01 18:55:00,32.0,M,Dr Paul,Dermatologist,Consultation,1500.0,1000.0,500.0, Dr Ammad ,300.0,Mona,,Wednesday,18.0,Evening
+212,"Wednesday, March 08, 2017",1,1900-01-01 12:00:00,,F,Nursing Staff,,Injection,150.0,150.0,, Dr Ammad ,150.0,Mona,,Wednesday,12.0,Morning
+213,"Wednesday, March 08, 2017",25,1900-01-01 19:30:00,,F,Dr Kinza Alam,Gynae,Consultation,1500.0,1500.0,, Dr Ammad ,500.0,Mona,,Wednesday,19.0,Evening
+214,"Thursday, March 09, 2017",77,1900-01-01 12:00:00,24.0,M,Dr Alaf Khan,Dentist,R.C.T,5000.0,2000.0,3000.0, Dr Ammad ,2000.0,Haris,3/16/2017,Thursday,12.0,Morning
+215,"Thursday, March 09, 2017",121,1900-01-01 09:00:00,3.0,F,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Mona,,Thursday,9.0,Morning
+216,"Thursday, March 09, 2017",122,,76.0,M,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Mona,,Thursday,,
+217,"Thursday, March 09, 2017",1,,,NAN,Nursing Staff,,Cancelled,,,, Dr Ammad ,,Saima,,Thursday,,
+218,"Thursday, March 09, 2017",18,1900-01-01 15:30:00,39.0,M,Dr Alaf Khan,Dentist,Scalling+Polishing,4000.0,4000.0,, Dr Ammad ,4000.0,Saima,,Thursday,15.0,Afternoon
+219,"Thursday, March 09, 2017",110,1900-01-01 18:00:00,30.0,M,Dr Qurat ul Ain,Dentist,Consultation,200.0,200.0,, Dr Ammad ,200.0,Saima,,Thursday,18.0,Evening
+220,"Friday, March 10, 2017",122,1900-01-01 10:20:00,76.0,M,Nursing Staff,,Injection,100.0,100.0,, Dr Ammad ,100.0,Zaheer,,Friday,10.0,Morning
+221,"Friday, March 10, 2017",105,1900-01-01 23:20:00,45.0,F,Dr Shireen,M/o,Consultation,800.0,800.0,, Dr Ammad ,800.0,Mona,,Friday,23.0,Nigth
