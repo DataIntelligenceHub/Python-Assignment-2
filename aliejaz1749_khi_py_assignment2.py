@@ -44,15 +44,30 @@ raw_data = raw_data.rename(columns={col: col.strip() for col in raw_data.columns
 #print(con_dr_amt.max())
 
 # Qus7. Which procedure type earns more money?
+raw_data['TotalCharges'] = pd.to_numeric(raw_data['TotalCharges'],errors='coerce')
 p_proc_typ_high = raw_data[['Procedure', 'TotalCharges']].groupby(['Procedure']).sum()
 print(p_proc_typ_high.max())
 
 
 # Qus8. Which time of the day has highest frequency of visits by hour?
+time_wise_vis = raw_data[['id','Time']].groupby(['Time']).count()
+print(time_wise_vis.max())
+
 # Qus9. Create a bracket of time by Morning, Afternoon, Evening, Night (6am – 12pm – Morning, 12 pm- 4 pm, Afternoon, 4 pm- 7pm, Evening, 7pm – 6 am, Night).
+
+                                                                       
 # Qus10. How many patients are repeated visitors?
+p_wise_cnt = raw_data['id'].value_counts()
+print(len(p_wise_cnt[p_wise_cnt>1].index))
+
 # Qus11. Give us the id of repeated visitors.
+p_wise_cnt = raw_data['id'].value_counts()
+print(p_wise_cnt[p_wise_cnt>1])
+
 # Qus12. Which patients visited again for the same problem?
+p_pat_wise_amt = df[['id', 'Procedure']].groupby(['id']).count()
+print(p_pat_wise_amt[p_pat_wise_amt>1])
+
 # Qus13. What is the median age for Females and Males?
 # Qus14. What is the total amount in balance?
 # Qus15. How much money was made by Procedure Type “Consultation”?
