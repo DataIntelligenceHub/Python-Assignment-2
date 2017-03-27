@@ -1,5 +1,5 @@
 Date,id,Time,Age,Sex,Consulting..Doctor,Specialty,Procedure,Total..Charges,Amount..Received.,Amount..Balance,Amount.Received.By,Amount.in.Hospital,Receptionist..Name,Next.Apt
-"Sunday, January 01, 2017",101,11:00AM,40,F,Dr Kinza Alam,Gynae,C Section,30000,30000, -   , Mrs Shamsa ,,Hamza,
+"Sunday, January 01, 2017",101,11:00,40,F,Dr Kinza Alam,Gynae,C Section,30000,30000, -   , Mrs Shamsa ,,Hamza,
 "Monday, January 02, 2017",150,10:45AM,26,M,Nursing Staff,,Dressing,1500,1500, -   , Dr Saniya ,,Haris,
 "Monday, January 02, 2017",58,12:38PM,30,F,Dr Riffat Naheed,Psychotherapist,Consultation,1000,1000, -   , Mrs Shamsa ,300,Fiza,
 "Monday, January 02, 2017",75,1:00PM,40,M,Dr Riffat Naheed,Psychotherapist,Consultation,1500,1500, -   , Mrs Shamsa ,450,Zaheer,
